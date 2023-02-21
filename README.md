@@ -1,3 +1,10 @@
+# React Shopping cart with React and Stripe.
+
+In this project, we will create a shopping cart using React and Stripe.
+
+# screenshots of the app.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
