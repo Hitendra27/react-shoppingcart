@@ -16,11 +16,11 @@ function App() {
     <Container>
       <NavbarComponet></NavbarComponet>
       <BrowserRouter>
-      <Routes>
-        <Route index element={<Store />} />
-        <Route path='success' element={<Success />} />
-        <Route path='cancel' element={<Cancel />} />
-      </Routes>
+        <Routes>
+          <Route index element={<Store />} />
+          <Route path="success" element={<Success />} />
+          <Route path="cancel" element={<Cancel />} />
+        </Routes>
       </BrowserRouter>
     </Container>
   );
