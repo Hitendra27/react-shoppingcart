@@ -8,7 +8,6 @@ In this project, we will create a shopping cart using React and Stripe.
 <img width="1440" alt="Screenshot 2023-02-23 at 08 34 47" src="https://user-images.githubusercontent.com/73651340/221026057-72a0db78-47b8-41b7-9564-d9a3806f4bee.png">
 <img width="1440" alt="Screenshot 2023-02-23 at 08 35 03" src="https://user-images.githubusercontent.com/73651340/221026086-1a69aa1a-36ec-4588-a146-be2b0831ef29.png">
 <img width="1440" alt="Screenshot 2023-02-23 at 08 35 09" src="https://user-images.githubusercontent.com/73651340/221026113-e24f0ebb-9f8d-4416-9e08-88a57b1b0bd4.png">
->>>>>>> 3f22c3848f796f4ce2d1933c2c5f4f5f69102ac9:README.md
 
 # Getting Started with Create React App
 
