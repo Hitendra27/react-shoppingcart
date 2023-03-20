@@ -2,13 +2,6 @@
 
 In this project, we will create a shopping cart using React and Stripe.
 
-<<<<<<< HEAD:store/README.md
-# screenshots of the app.
-
-<img width="1440" alt="Screenshot 2023-02-21 at 05 29 17" src="https://user-images.githubusercontent.com/73651340/220419349-e5a1532c-4820-4b61-b238-620f9f7b7acf.png">
-=======
-View live demo of the Shopping cart here using github pages: [Live Demo]()
-
 # screenshots of the app.
 <img width="1440" alt="Screenshot 2023-02-23 at 08 34 13" src="https://user-images.githubusercontent.com/73651340/221025940-1dab4d84-061c-449b-b403-4035374eed4e.png">
 <img width="1440" alt="Screenshot 2023-02-23 at 08 34 17" src="https://user-images.githubusercontent.com/73651340/221025994-7ea687e2-2af3-4fbf-a1db-8ed20e1ca9d0.png">
